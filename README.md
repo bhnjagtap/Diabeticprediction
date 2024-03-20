@@ -1,2 +1,2 @@
 # Diabeticprediction
-this is a machine learning project using python to predictic diabetic patient
+this is a machine learning project using python to predict diabetic patient
